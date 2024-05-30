@@ -1,0 +1,126 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti ja lihapullat tomaattikastikkeessa",
+      "total_time": "45min",
+      "servings": 6,
+      "ingredients": {
+        "Raaka-aineet": [
+          "700g sika-nauta jauhelihaa",
+          "1kpl kananmuna",
+          "5kpl vaalea leipä",
+          "1kpl valkosipulin kynsi",
+          "pippuria",
+          "Suolaa",
+          "Rypsiöljyä",
+          "500g paseerattu tomaatti",
+          "2dl ruokakermaa",
+          "Oreganoa",
+          "Sokeria",
+          "Tuore persilija (valinnainen)",
+          "400g spaghettia"
+        ]
+      },
+      "instructions": {
+        "Lihapullat": [
+          "Laita jauheliha kulhoon",
+          "Murskaa leipä blenderissä ja silppua valkosipuli pieneksi",
+          "Lisää mausteet, valkosipuli, leipä sekä kananmuna jauhelihan sekaan ja sekoita hyvin",
+          "Pyörittele jauhelihasta pullia ja paista muutamassa erässä tilkassa öljyä n. 2min per puoli kunnes pullat saavat paistopinnan. HUOM: Tässä vaiheessa lihapullat saavat jäädä sisältä raa-aksi.",
+          "Nosta lihapullat sivuun odottamaan"
+        ],
+        "Kastike": [
+          "Pilko 4kpl valkosipulin kynsiä suikaleiksi",
+          "Lisää pannulle tilkka öljyä ja kuullota valkosipulia n. 1min ajan",
+          "Lisää paseerattu tomaatti ja kiehauta",
+          "Lisää kerma ja lihapullat joukkoon ja lisää ripaus sokeria sekä oreganoa",
+          "Anna kiehua hiljalleen keskilämmöllä n. 8min ajan",
+          "Maista ja lisää suolaa tarvittaessa, valinnaisesti voit lisätä tässä vaiheessa muita mausteita, mm. paprikajauhe, chilijauhe yms."
+        ],
+        "Pasta": ["Keitä pasta reilusti suolatussa vedessä"]
+      }
+    },
+    {
+      "title": "Coleslaw",
+      "total_time": "1h",
+      "servings": 4,
+      "ingredients": {
+        "Raaka-aineet": [
+          "500-800g kaalia",
+          "3/4tl suolaa",
+          "1kpl punasipuli",
+          "2kpl porkkanaa raastettuna",
+          "1dl maustamatonta jogurttia",
+          "1dl majoneesia (Hellmann real)",
+          "1tl sinappia",
+          "mustapippuria",
+          "Ruohosipulia tai persilijaa"
+        ]
+      },
+      "instructions": {
+        "": [
+          "Huuhtele kaali ja poista siitä uloimmat lehdet",
+          "Leikkaa kaali ohuiksi suikaleiksi",
+          "Laita kaali kulhoon ja lisää 3/4 tl suolaa, sekoita hyvin ja peitä kelmulla tai lautasella. Anna kaalin mehevöityä ja maustua väh 30min (mieluiten tunti)",
+          "Suikaloi sipuli, raasta porkkanat ja lisää kaalin joukkoon",
+          "Sekoita kastike jogurtista, majoneesista ja sinapista sekä mausta mustapippurilla",
+          "Kääntele kastike salaatin joukkoon ja lisää päälle ruohosipulia tai tuoretta persilijaa"
+        ]
+      }
+    },
+    {
+      "title": "Porsaan fileet pannulla",
+      "total_time": "20min",
+      "servings": 2,
+      "ingredients": {
+        "Raaka-aineet": [
+          "Porsaan ulkofileitä",
+          "Valkosipulin kynsiä (2kpl per pihvi)",
+          "Voita",
+          "Maldon suolaa",
+          "Pippuria",
+          "Öljyä"
+        ]
+      },
+      "instructions": {
+        "": [
+          "Painele pihvejä kevyesti talouspaperilla",
+          "Lisää molemmille puolille suolaa sekä pippuria",
+          "Murskaa valkosipulit (kynsi per pihvi), kuori voi jäädä valkosipuliin, idea on vain hajottaa kynttä sen verran että maku irtoaa",
+          "Kuumenna pannu kuumaksi, lisää öljyä ja odota kunnes öljykin melkein savuaa. (testaa roiskauttamalla tilkka vettä pannulle, kun se rätisee on pannu tarpeeksi kuuma)",
+          "Lisää pihvit pannulle ja anna niiden paistua paikallaan 2min.",
+          "Käännä pihvit ja lisää reilu nokare voita sekä valkosipulin kynnet",
+          "Paista pihvejä n. 2min ajan lusikoiden voita pihvien päälle (kallista pannua jotta voi valuu aina alas josta sitä on helppo lusikoida, mutta laske välillä pannu aina liedelle jottei se pääse liikaa jäähtymään), nosta myös kynnet pihvien päälle",
+          "Käännä vielä pihvit kerran ja paista 2min ajan lusikoiden voita pihvien päälle",
+          "Laita pihvit folioon ja kaada myös nesteet niiden päälle, sulje folio ja anna vetäytyä n. 5min ennen syömistä"
+        ]
+      }
+    },
+    {
+      "title": "Pippurikastike",
+      "total_time": "35min",
+      "servings": 4,
+      "ingredients": {
+        "Raaka-aineet": [
+          "1tl roseepippuri",
+          "1tl viherpippuri",
+          "1tl mustapippuri",
+          "1tl sinappia",
+          "1dl lihalientä",
+          "2dl kuohukermaa",
+          "Vehnäjauhoja"
+        ]
+      },
+      "instructions": {
+        "": [
+          "Rouhi pippurit morttelilla",
+          "Paahda pippureita kattilassa noin minuutti keskilämmöllä",
+          "Lisää sinappi sekä lihaliemi ja kiehauta",
+          "Lisää kerma",
+          "Lisää tarvittaessa vehnäjauhoja kunnolla sekoittaen jos haluat lisätä paksuutta",
+          "Anna kiehua hiljalleen 15-20min, lisää suolaa tarvittaessa"
+        ]
+      }
+    }
+  ]
+}
