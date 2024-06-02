@@ -121,6 +121,47 @@
           "Anna kiehua hiljalleen 15-20min, lisää suolaa tarvittaessa"
         ]
       }
+    },
+    {
+      "title": "Red thai curry",
+      "total_time": "45min",
+      "servings": 6,
+      "ingredients": {
+        "Raaka-aineet": [
+          "400-700g Kanaan filepihvejä tai vastaavia",
+          "400ml kookosmaitoa",
+          "100g spice up red thai curry tahnaa",
+          "5dl kanalientä",
+          "1rkl osterikastiketta",
+          "1kpl sipuli",
+          "1kpl paprika",
+          "Suolaa",
+          "Kuivattua persilijaa",
+          "Basikilan lehtiä (valinnainen)"
+        ]
+      },
+      "instructions": {
+        "Kanat": [
+          "Pilko kanat suupalan kokoisiksi",
+          "Marinoi kanat astiassa",
+          "1rkl paprikajauhe",
+          "1tl suolaa",
+          "1tl valkosipulijauhetta",
+          "1tl sipulijauhetta",
+          "Sekoita ja jätä maustumaan"
+        ],
+        "Kastike": [
+          "Lisää pannulle öljyä ja kuumenna",
+          "Lisää punainen currytahna pannulle ja pyörittele kunnes ylimääräinen neste tahnasta katoaa",
+          "Lisää kanaliemi ja kiehauta",
+          "Lisää kookosmaito ja kiehauta",
+          "Lisää kanat, sipulit, paprikat, 1rkl osterikastiketta sekä kuivattua persiljaa pannulle ja anna kiehua reilu 10min",
+          "Maista ja lisää suolaa tai muita mausteita tarvittaessa",
+          "10 minuutin jälkeen ota pois levyltä ja sekoita basilikan lehdet sekaan",
+          "Tarjoile riisin kanssa"
+        ],
+        "Riisi": ["Keitä 1-2 kuppia riisiä riisikeittimessä"]
+      }
     }
   ]
 }
