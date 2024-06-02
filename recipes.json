@@ -162,6 +162,36 @@
         ],
         "Riisi": ["Keitä 1-2 kuppia riisiä riisikeittimessä"]
       }
+    },
+    {
+      "title": "Karamellisoitu sipulipasta",
+      "total_time": "45min",
+      "servings": 6,
+      "ingredients": {
+        "Raaka-aineet": [
+          "400g pastaa",
+          "400g chorizo makkaraa",
+          "500g sipulia",
+          "n. 2dl kookosmaitoa",
+          "1kpl valkosipuli halkaistu puoliksi",
+          "Paprikajauhetta",
+          "Oreganoa tai kuivattu persilijaa, tai haluamaa yrttiä",
+          "50g pinaattia"
+        ]
+      },
+      "instructions": {
+        "Ohje": [
+          "Esilämmitä uuni 180 asteeseen",
+          "Pilko sipulit suikaleiksi ja aseta vuokaan",
+          "Lisää REILUSTI paprikajauhetta, ja haluamaasi yrttijauhetta sekä oliiviöljyä",
+          "Sekoita kunnes mausteet ja öljy on tasaisesti sipulien seassa",
+          "Halkaise kokonainen valkosipuli ja aseta se keskelle vuokaa ylöspäin osoittaen, lisää senkin päälle oliiviöljyä",
+          "Paista uunissa 1h",
+          "Paista chorizo makkarat pannulla öljyssä",
+          "Ota vuoka uunista, lisää n. 1-3dl (maun mukaan) kookosmaitoa, lisää chorizo makkarat, pasta ja pinaatti ja sekoita kunnolla, lisää suolaa tarvittaessa"
+        ],
+        "Pasta": ["Keitä pasta reilusti suolatussa vedessä"]
+      }
     }
   ]
 }
