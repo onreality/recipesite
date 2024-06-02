@@ -27,16 +27,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
         modalBtn.addEventListener("click", function () {
           modal.style.display = "block";
+          document.body.style.overflow = "hidden";
           modalContent.innerHTML = generateInstructions(recipe);
         });
 
         closeBtn.addEventListener("click", function () {
           modal.style.display = "none";
+          document.body.style.overflow = "auto";
         });
 
         window.addEventListener("click", function (event) {
           if (event.target == modal) {
             modal.style.display = "none";
+            document.body.style.overflow = "auto";
           }
         });
       });
@@ -44,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
     .catch((error) => console.error("Error fetching recipes:", error));
 
   function generateInstructions(recipe) {
-    let instructionsHTML = "<h2>Ingredients:</h2>";
+    let instructionsHTML = "<h2>" + recipe.title + "</h2>";
     for (let section in recipe.ingredients) {
       instructionsHTML += `<h3>${
         section.charAt(0).toUpperCase() + section.slice(1)
